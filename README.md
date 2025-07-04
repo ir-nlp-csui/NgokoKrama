@@ -8,4 +8,4 @@ NgokoKrama is a parallel corpus consist of 1000 sentence pairs in Indonesian, Ja
 This study was supported by the Faculty of Computer Science, Universitas Indonesia
 
 ## Research Paper
-This work will be published presented at IALP 2025.
+This work will be presented at IALP 2025.
