@@ -8,4 +8,4 @@ NgokoKrama is a parallel corpus consist of 1000 sentence pairs in Indonesian, Ja
 This study was supported by the Faculty of Computer Science, Universitas Indonesia
 
 ## Research Paper
-This work will be presented at IALP 2025.
+This dataset was intended for Indonesian-Javanese Krama machine translation task by evaluating three pretrained language models. This work will be presented at IALP 2025.
